@@ -1,0 +1,22 @@
+body
+{
+	text-align: center;
+	background-image:url("bg.gif");
+	color:white;
+	font-family:cursive;
+	font-size:25px;
+}
+span
+{
+	font-size: 25px;
+	color: plum;
+}
+canvas
+{
+	background: black;
+	border-radius: 20px;
+}
+
+h3{
+	font-size:40px;
+}
